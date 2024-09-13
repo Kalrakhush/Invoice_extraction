@@ -2,11 +2,6 @@ import os
 import yaml
 import json
 import pdfplumber
-from imapclient import IMAPClient
-import time
-from email.header import decode_header
-import logging
-import os
 import streamlit as st
 import json
 import pdfplumber
