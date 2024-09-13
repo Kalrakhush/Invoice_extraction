@@ -24,10 +24,10 @@ from openai import AzureOpenAI, OpenAIError
 import pandas as pd
 from tempfile import NamedTemporaryFile
 
-api_key = st.secrets["api_key"]
-azure_endpoint = st.secrets["azure_endpoint"]
-api_version = st.secrets["api_version"]
-deployment_name = st.secrets["deployment_name"]
+api_key = st.secrets["default"]["api_key"]
+azure_endpoint = st.secrets["default"]["azure_endpoint"]
+api_version = st.secrets["default"]["api_version"]
+deployment_name = st.secrets["default"]["deployment_name"]
 
 # Load environment variables
 
