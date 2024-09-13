@@ -1,5 +1,4 @@
 PyYAML
-email
 pdfplumber
 azure-core
 azure-storage-blob
