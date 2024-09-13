@@ -1,20 +1,9 @@
-os
-yaml
-email
-json
 pdfplumber
-imapclient
-time
-logging
-streamlit
 azure-core
 azure-storage-blob
-math
-fitz  # PyMuPDF
-opencv-python-headless  # For cv2, without GUI features
+PyMuPDF
 numpy
 deskew
-Pillow  # For image processing
 azure-ai-formrecognizer
 openai
 pandas
