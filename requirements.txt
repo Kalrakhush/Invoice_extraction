@@ -1,4 +1,5 @@
-streamlit
+yml
+email
 pdfplumber
 azure-core
 azure-storage-blob
