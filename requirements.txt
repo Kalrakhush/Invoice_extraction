@@ -7,5 +7,6 @@ numpy
 deskew
 azure-ai-formrecognizer
 openai
+opencv-python
 streamlit
 pandas
