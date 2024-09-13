@@ -1,6 +1,5 @@
 import os
 import yaml
-import email
 import json
 import pdfplumber
 from imapclient import IMAPClient
