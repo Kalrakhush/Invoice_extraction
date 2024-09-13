@@ -1,4 +1,4 @@
-yml
+yaml
 email
 pdfplumber
 azure-core
